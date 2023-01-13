@@ -1,0 +1,31 @@
+#1.First make a folder then create jsonpakage file .
+#2. Make boiler plate or project structure.
+#3.Login controller for user login, user profile controller for user registration.
+#4.Make Todo controller for todo list crud operation
+#5.make auth middleware for user varification, jwt token generate.
+#6.make app.js file for-
+    //Basic Library import
+    //secuirity Library middleware
+    //Database Lib Import
+    //secuirity Library middleware implement
+    //Body parse implement
+    //Request Rate limit
+    //Mongodb Database connection
+    // Routing Implement
+    //undefined route implement
+
+for User registration
+#7.Create User profile
+#8.User Login
+#9.Select User
+#10.Update User
+
+Todo list crud and filter
+#11.Create Todo
+#12.Select Todo
+#13.Update Todo
+#14.Update Status Todo
+#15.Remove Todo
+#16.Filter Todo By Status
+#17.Filter Todo By Date
+
